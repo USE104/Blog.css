@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Raleway:wght@100;200;300&family=Roboto:wght@100&display=swap');
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    width: 50%;
+    margin: auto;
+    background-color: black;
+}
+
+div {
+    margin-top: 10px;
+    background-color: #fff1e6;
+    padding: 10px;
+    border: 1px black solid;
+}
+
+.data {
+    color: rgb(255, 0, 0);
+    font-family: 'Roboto', sans-serif;
+}
+
+.texto {
+    color: rgb(90, 68, 41);
+    font-family: 'Raleway', sans-serif;
+}
